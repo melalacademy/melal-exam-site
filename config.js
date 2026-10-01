@@ -1,1 +1,4 @@
-window.MELAL_CONFIG={SUPABASE_URL:"YOUR_SUPABASE_URL",SUPABASE_ANON_KEY:"YOUR_SUPABASE_ANON_KEY"};
+window.MELAL_CONFIG={
+  SUPABASE_URL:"https://bimvrinmqfpgoekbknnn.supabase.co",
+  SUPABASE_ANON_KEY:"sb_publishable_yiB6AVOt8tkNaD0Vgbn_xg_6yQu5ynf"
+};
